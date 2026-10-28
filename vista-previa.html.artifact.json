@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "pochi-desayunos/vista-previa.html",
+  "entry": "pochi-desayunos/vista-previa.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-10-28T15:30:08.925Z",
+  "updatedAt": "2026-10-28T15:30:08.925Z",
+  "metadata": {
+    "inferred": true,
+    "reconciled": true
+  }
+}
